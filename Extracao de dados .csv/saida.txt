@@ -1,0 +1,13 @@
+=== BRASIL ===
+Total Pagamentos: 98606 | Total Pago: R$ 80788820.00 | Media: R$ 819.31
+
+=== ESTADO E CIDADE ===
+Estado (PB) -> Total Pagamentos: 3942 | Total Pago: R$ 3231040.00 | Media: R$ 819.64
+Cidade (JOAO PESSOA) -> Total Pagamentos: 1300 | Total Pago: R$ 1062690.00 | Media: R$ 817.45
+
+=== RANKING DO ESTADO (PB) ===
+CIDADE QUE MAIS RECEBEU: CAMPINA GRANDE
+Total: R$ 1101540.00 | Qtd Pagamentos: 1354 | Media: R$ 813.55
+
+CIDADE QUE MENOS RECEBEU: JOAO PESSOA
+Total: R$ 1062690.00 | Qtd Pagamentos: 1300 | Media: R$ 817.45
